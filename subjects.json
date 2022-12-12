@@ -1,0 +1,29 @@
+[
+    {
+     "subjects": [
+      "Anatomija",
+      "Biologija",
+      "Matematika",
+      "Hemija",
+      "Fizika",
+      "Nega",
+      "Latinski",
+      "Geografija",
+      "Engleski",
+      "Srpski"
+     ],
+     "colors": [
+      "#cb307d",
+      "#f3733e",
+      "#19ac53",
+      "#1865f2",
+      "#c4d3ad",
+      "#fcb500",
+      "#f20746",
+      "#7600bc",
+      "#10e6d7",
+      "#98f207"
+     ],
+     "id": "1"
+    }
+   ]
